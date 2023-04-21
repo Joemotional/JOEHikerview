@@ -21,7 +21,8 @@ GitHub 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 2. 香佬：https://framagit.org/lzk23559/tvbox
 
 3. 狗浩：https://jihulab.com/gouhao/Tvbox_zy
-   * 古月：https://github.com/bobocg/beiyong
+* 狗浩2：https://codeberg.org/gouhaoya/Tvbox_zy
+  * 古月：https://github.com/bobocg/beiyong
 
 4. 蜂蜜：https://github.com/FongMi/TV/
    * 内测：https://github.com/FongMi/TV/tree/dev
