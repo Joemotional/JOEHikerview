@@ -15,5 +15,5 @@
 4. 蜂蜜：https://github.com/FongMi/TV/
    * 内测：https://github.com/FongMi/TV/tree/dev
 
-5. ~~流氓壳子~~影音壳子
+5. ~~流氓~~影音壳子
 https://support.qq.com/embed/phone/428437/large/
