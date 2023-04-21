@@ -1,7 +1,7 @@
 # HOLA - House Of Living Art
 ![Hello world~](icon.png)
 
- _GitHub 官方使用文档 🔥_ https://docs.gihub.com/zh [^1]
+ *GitHub 官方使用文档 🔥* https://docs.gihub.com/zh [^1]
 * [《GitHub 入门教程》](https://github.com/CatOneTwo/GitHub-Tutorial) | [《GitHub 初学者指南》](https://www.githubs.cn/post/what-is-github)
 
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
