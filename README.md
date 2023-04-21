@@ -2,7 +2,7 @@
 ![Hello world~](icon.png)
 
 GitHub 官方使用文档 🔥https://docs.gihub.com/zh [^1]
-* 《[GitHub 入门教程](https://github.com/CatOneTwo/GitHub-Tutorial)》《[GitHub 初学者指南](https://www.githubs.cn/post/what-is-github)》
+* [《GitHub 入门教程》](https://github.com/CatOneTwo/GitHub-Tutorial) [《GitHub 初学者指南》](https://www.githubs.cn/post/what-is-github)
 
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
 
@@ -34,4 +34,4 @@ https://support.qq.com/embed/phone/428437/large/
 
 1. Senap：https://codeberg.org/senap/hiker
 
-[^1]:[基本撰写和格式语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^1]:怎么写好一份简单美观的README？[《基本撰写和格式语法》](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
