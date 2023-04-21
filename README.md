@@ -1,4 +1,4 @@
-## HOLA - House Of Living Art
+# HOLA - House Of Living Art
 ![Hello world~](icon.png)
 
 Github 官方使用文档 🔥https://docs.gihub.com/zh
@@ -9,7 +9,7 @@ GitHub 国际化插件 🔰https://greasyfork.org/zh-CN/scripts/407485-github-in
 
 Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
-### Time of Your Life
+## The Time of Your Life
 
 ✨**1.电视盒子TVBox**✨
 
