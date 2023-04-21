@@ -1,13 +1,14 @@
 # HOLA - House Of Living Art
-![Hello world~](icon.png)
+![](icon.png)
 
-Github 官方使用文档 🔥https://docs.gihub.com/zh
+GitHub 官方使用文档 🔥https://docs.gihub.com/zh
+* 《[GitHub 入门教程](https://github.com/CatOneTwo/GitHub-Tutorial)》 《[GitHub 初学者指南](https://www.githubs.cn/post/what-is-github)》
 
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
 
 GitHub 国际化插件 🔰https://greasyfork.org/zh-CN/scripts/407485-github-internationalization
 
-Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
+GitHub 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
 ## The Time of Your Life
 
@@ -24,6 +25,9 @@ Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
 4. 蜂蜜：https://github.com/FongMi/TV/
    * 内测：https://github.com/FongMi/TV/tree/dev
+
+5. ~~流氓壳子~~影音壳子
+https://support.qq.com/embed/phone/428437/large/
 
 **🍀[海阔视界Hiker](https://haikuoshijie.cn/archives/fang-yuan-ying-shi-chang-jian-wen-ti)🍀**
 
