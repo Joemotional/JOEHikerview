@@ -1,7 +1,7 @@
 # HOLA - House Of Living Art
 ![Hello world~](icon.png)
 
-GitHub 官方使用文档 🔥https://docs.gihub.com/zh [^1]
+ _GitHub 官方使用文档 🔥_ https://docs.gihub.com/zh [^1]
 * [《GitHub 入门教程》](https://github.com/CatOneTwo/GitHub-Tutorial) | [《GitHub 初学者指南》](https://www.githubs.cn/post/what-is-github)
 
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
@@ -10,7 +10,7 @@ GitHub 国际化插件 🔰https://greasyfork.org/zh-CN/scripts/407485-github-in
 
 GitHub 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
-* Github RAW 加速服务:
+__* Github RAW 加速服务:__
 1.源码
 https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json
 
@@ -35,7 +35,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
 https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
 https://raw.githubusercontents.com/liu673cn/box/main/m.json
 
-* Github 静态加速：
+__* Github 静态加速：__
 https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 https://purge.jsdelivr.net/gh/
