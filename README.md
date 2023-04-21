@@ -10,7 +10,7 @@ Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 1.TVBox相关仓库
 
 (1.1)道长：https://gitlink.org.cn/hjdhnx/dr_py
-- 备用：https://github.com/troray/dr_py
+- 备用：https://github.com/kingfren/dr_py
 
 (1.2)香佬：https://framagit.org/lzk23559/tvbox
 
