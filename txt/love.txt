@@ -1,0 +1,31 @@
+# My AdFilters/AdRules
+https://raw.fastgit.org/damengzhu/banad/main/jiekouAD.txt
+Home：https://github.com/damengzhu/banad
+[轻量规则](酷安@大萌主，小棉袄推荐，主要拦截色情横幅)
+
+https://raw.gitmirror.com/lingeringsound/adblock/master/adblock_lite
+Home：https://lingeringsound.github.io/adblock
+[混合规则(精简版)](酷安@代号10007 合并的规则)
+适用于via，可与其他规则合用，不定期更新
+
+https://raw.iqiq.io/damengzhu/abpmerge/main/abpmerge.txt
+Home：https://github.com/damengzhu/abpmerge
+[ABP Merge Rules](酷安@杏梢 帮忙合并的规则)
+该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则
+
+https://raw.gitmirror.com/o0HalfLife0o/list/master/ad.txt
+Home：https://github.com/pvqogw/list
+[AdFilters](小棉袄推荐)
+合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则
+
+https://code.gitlink.org.cn/zzp282/ads/raw/branch/master/ADSLJF.txt
+Home：https://code.gitlink.org.cn/zzp282/ads
+[ADSLJF](酷安@456300)
+
+https://adrules.top/adblock_lite.txt
+Home：https://adrules.top
+[AdRules AdBlock List Lite](杏梢团队维护的规则)
+
+https://anti-ad.net/easylist.txt
+Home：https://anti-ad.net
+[anti-AD Filters](小浅推荐)
