@@ -3,7 +3,7 @@
 **✨[电视盒子TVBox](https://github.com/pvqogw/TVBoxOSC/)✨**
 
 1. 道长：https://github.com/hjdhnx/dr_py
-* 道长2：https://gitlink.org.cn/hjdhnx/dr_py （备用：https://github.com/kingfren/dr_py）
+* 道长2：https://gitlink.org.cn/hjdhnx/dr_py （备用：https://github.com/kingfren/dr_py ）
   * 道长3：https://jihulab.com/hjdhnx/dr_py
 
 2. 香佬：https://framagit.org/lzk23559/tvbox
