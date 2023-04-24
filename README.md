@@ -1,4 +1,4 @@
-# [点我查看README](https://github.com/Joemotonal/Joemotion/blob/main/README.md)
+# [点我查看README](https://github.com/Joemotional/Joemotion/blob/main/README.md)
 
 **✨[电视盒子TVBox](https://github.com/pvqogw/TVBoxOSC/)✨**
 
