@@ -1,4 +1,5 @@
 # My AdFilters/AdRules
+//以下排名不分先后:
 https://raw.fastgit.org/damengzhu/banad/main/jiekouAD.txt
 Home：https://github.com/damengzhu/banad
 [轻量规则](酷安@大萌主，小棉袄推荐，主要拦截色情横幅)
@@ -20,7 +21,7 @@ Home：https://github.com/pvqogw/list
 
 https://code.gitlink.org.cn/zzp282/ads/raw/branch/master/ADSLJF.txt
 Home：https://code.gitlink.org.cn/zzp282/ads
-[ADSLJF](酷安@456300)
+[ADSLJF](酷安@456300，易误拦)
 
 https://adrules.top/adblock_lite.txt
 Home：https://adrules.top
