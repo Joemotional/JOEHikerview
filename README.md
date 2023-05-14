@@ -2,11 +2,11 @@
 
 **✨[电视盒子TVBox](https://github.com/pvqogw/TVBoxOSC/)✨**
 
-1. 道长：https://github.com/hjdhnx/dr_py
-* 道长2：https://gitlink.org.cn/hjdhnx/dr_py （备用：https://github.com/kingfren/dr_py ）
+1. 道长：https://github.com/hjdhnx/dr_py （备用：https://github.com/kingfren/dr_py ）
+* 道长2：https://gitlink.org.cn/hjdhnx/dr_py
   * 道长3：https://jihulab.com/hjdhnx/dr_py
 
-2. 香佬：https://framagit.org/lzk23559/tvbox
+2. 香佬：https://framagit.org/lzk23559/tvbox （备用：https://www.123pan.com/s/alSeVv-lGO0A.html ）
 
 3. 狗浩：https://jihulab.com/gouhao/Tvbox_zy
 * 狗浩2：https://codeberg.org/gouhaoya/Tvbox_zy
