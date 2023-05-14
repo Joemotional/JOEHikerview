@@ -1,5 +1,5 @@
-# [点我查看README](https://github.com/Joemotional/Joemotion/blob/main/README.md)
-![Alt text](https://github.com/Joemotional/Joemotion/blob/8458bde1449708a608e70a10b887b01882949e2b/icons/pushcover.png)
+# [点我查看README](README.md)
+![Alt text](icons/pushcover.png)
 
 **🍀[海阔视界Hiker](https://haikuoshijie.cn/archives/fang-yuan-ying-shi-chang-jian-wen-ti)🍀**
 
