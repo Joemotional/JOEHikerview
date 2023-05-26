@@ -40,7 +40,7 @@ https://raw.githubusercontents.com/liu673cn/box/main/m.json
 
 https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://purge.jsdelivr.net/gh/
+https://purge.jsdelivr.net/gh
 
 ## The Time of Your Life
 部分请查看👉[GitHub 仓库](https://github.com/liu673cn/box)｜[Box 文档](https://raw.liucn.cc/box)
