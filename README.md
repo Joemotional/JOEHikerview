@@ -1,5 +1,5 @@
 # HOLA - House Of Living Art
-![Hello world](icons/HIKicon.png)
+![HelloWorld](icons/HIKicon.png)
 
  *《GitHub 官方使用文档》 🔥* https://docs.github.com/zh [^1]
 * [《GitHub 官方帮助指南》](https://support.github.com)｜[《GitHub 初学者指南》](https://www.githubs.cn/post/what-is-github)|[《GitHub 秘籍》](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)｜[《GitHub 入门教程》](https://github.com/CatOneTwo/GitHub-Tutorial)
@@ -43,8 +43,8 @@ https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 https://purge.jsdelivr.net/gh/
 
 ## The Time of Your Life
-部分请查看👉[GitHub 社区](https://github.com/liu673cn/box) | [Box 文档](http://raw.liucn.cc/box)
+部分请查看👉[GitHub 仓库](https://github.com/liu673cn/box)｜[Box 网站](http://raw.liucn.cc/box)
 
 **以上为互联网流传资源，不保证内容的真实性和可靠性；本页面仅为收集，自用请勿宣传！**
-![GitHub](https://myoctocat.com/assets/images/base-octocat.svg)
+![GitMiao］(https://myoctocat.com/assets/images/base-octocat.svg)
 [^1]:怎么写好一份简单美观的README？[《基本撰写和格式语法》](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
