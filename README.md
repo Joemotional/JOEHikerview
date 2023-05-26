@@ -1,7 +1,7 @@
 # HOLA - House Of Living Art
-![Hello world~](icons/HIKicon.png)
+![Hello world](icons/HIKicon.png)
 
- *《GitHub 官方使用文档》 🔥* https://docs.gihub.com/zh [^1]
+ *《GitHub 官方使用文档》 🔥* https://docs.github.com/zh [^1]
 * [《GitHub 官方帮助指南》](https://support.github.com)｜[《GitHub 初学者指南》](https://www.githubs.cn/post/what-is-github)|[《GitHub 秘籍》](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)｜[《GitHub 入门教程》](https://github.com/CatOneTwo/GitHub-Tutorial)
 
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
@@ -46,5 +46,5 @@ https://purge.jsdelivr.net/gh/
 部分请查看👉[GitHub 社区](https://github.com/liu673cn/box) | [Box 文档](http://raw.liucn.cc/box)
 
 **以上为互联网流传资源，不保证内容的真实性和可靠性；本页面仅为收集，自用请勿宣传！**
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![GitHub](https://myoctocat.com/assets/images/base-octocat.svg)
 [^1]:怎么写好一份简单美观的README？[《基本撰写和格式语法》](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
