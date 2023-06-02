@@ -1,4 +1,4 @@
-Export from 影音宝 - 听你想听的,#genre#
+新麻豆,#genre#
 新麻豆01,https://1xp60.cdnedge.live/file/avple-images/hls/614d15c1246f4b08f7e8fcc1/playlist.m3u8
 新麻豆02,https://u89ey.cdnedge.live/file/avple-images/hls/614d1585246f4b08f7e8fcc0/playlist.m3u8
 新麻豆03,https://8bb88.cdnedge.live/file/avple-images/hls/614d150d246f4b08f7e8fcbf/playlist.m3u8
@@ -177,7 +177,7 @@ Export from 影音宝 - 听你想听的,#genre#
 最新麻豆64,https://zo392.cdnedge.live/file/avple-images/hls/614d150d246f4b08f7e8fcbf/playlist.m3u8
 最新麻豆65,https://10j99.cdnedge.live/file/avple-images/hls/614d1495246f4b08f7e8fcbe/playlist.m3u8
 
-Export from 影音宝 - 看你想看的,#genre#
+加勒比,#genre#
 加勒比720P01,https://videony.rhsj520.com/20191299/oSRvuYJA/index.m3u8
 加勒比720P02,https://videony.rhsj520.com/20191112/022512-952/1500kb/hls/index.m3u8
 加勒比720P03,https://videony.rhsj520.com/jlb0707/051709-065/1500kb/hls/index.m3u8
