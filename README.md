@@ -1,5 +1,5 @@
 # HOLA - House Of Living Art
-![HelloWorld](icons/HIKicon.png)
+![HelloWorld](icons/hiker_yellow.png)
 
  *《GitHub 官方使用文档》 🔥* https://docs.github.com/zh [^1]
 * [《GitHub 官方帮助指南》](https://support.github.com)｜[《GitHub 初学者指南》](https://www.githubs.cn/post/what-is-github)|[《GitHub 秘籍》](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)｜[《GitHub 入门教程》](https://github.com/CatOneTwo/GitHub-Tutorial)
